@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/RevitPlugins/">
+    <Project Path="Lessons/Lessons.csproj" Id="83dfc316-b69e-452f-a8e4-3126cf5be879" />
+    <Project Path="Lesson_1_Hello/Lesson_1_Hello.csproj" Id="f9e58975-7ae2-4269-a37d-cffa2ce1eb3e" />
+  </Folder>
   <Project Path="CoursePluginsAPI.cs/CoursePluginsAPI.csproj" Id="1203d968-51b7-4de9-b586-3e7777d560a6" />
   <Project Path="NewCoursePlugins/NewCoursePlugins.csproj" Id="1b09525b-80b4-4a72-90bb-917c6edb8fce" />
   <Project Path="TestCommand/TestCommand.csproj" Id="aea78525-a75d-4c8b-87ec-4f4a843b19e9" />
